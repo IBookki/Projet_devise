@@ -1,4 +1,4 @@
-const apiKey = "exchangerate-api.com"; // Remplacez par votre clé API
+const apiKey = "36e11e5d790f10889c5dd649";
 const apiUrl = `https://v6.exchangerate-api.com/v6/${apiKey}/latest/`;
 
 document.addEventListener("DOMContentLoaded", () => {
